@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0px 0px 0px 0px;
+  font-family: sans-serif;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+
+a {
+  cursor: pointer;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+#newMovie {
+  margin: 10px
+}
